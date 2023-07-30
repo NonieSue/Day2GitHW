@@ -15,5 +15,7 @@ public class PushPullStash {
 		System.out.println("Info");
 
 	}
+	public static void getSalary(){
+		system.out.println(100k+);
 
 }
